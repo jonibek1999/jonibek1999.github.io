@@ -4,6 +4,7 @@ html{
 
 a{
     color:#FE642E;
+    text-decoration: none;
 }
 
 img{
@@ -17,4 +18,8 @@ h1,h2,h3,h4,h5,h6{
 
 em{
     color: #566573;
+}
+
+p:first-letter{
+    font-size:25px;
 }
